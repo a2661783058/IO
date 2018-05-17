@@ -1,0 +1,2 @@
+普通字符串
+pers.li.io.deal.PrintStreamTest@51d7aa64

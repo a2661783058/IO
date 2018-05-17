@@ -1,0 +1,4 @@
+hello,to out.txt
+fuck re插入指定内容测试d
+追加内容d
+追加内容
